@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-&nbsp;
+
 
 ### I'm **Archana**, an aspiring front-end developer.
 
