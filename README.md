@@ -29,12 +29,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ahana.archana23@gmail.com
 - 😄 Interests: Adventures, get togethers, travel.
 
-&nbsp;
 
 ### Connect with me:
 [![LinkedIN_icon](https://img.icons8.com/bubbles/48/000000/linkedin.png)](https://www.linkedin.com/in/archana-yadav23/)
 
-&nbsp;
+
 
 &nbsp;
 
