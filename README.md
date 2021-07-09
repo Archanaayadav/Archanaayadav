@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ### I'm **Archana**, an aspiring front-end developer.
 
+&nbsp;
+
 - 🔭 I’m currently working on feature extraction for video analysis project.
 - 🌱 I’m currently learning javascript.
 - 👯 I’m looking to collaborate on any front-end development projects.
