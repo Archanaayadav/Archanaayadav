@@ -1,5 +1,5 @@
-### Hi there 👋
 
+<h1 align="center"> Hi there 👋</h1>
 <!--
 **Archanaayadav/Archanaayadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+&nbsp;
 
-
-I'm **Archana**, an aspiring front-end developer.
+### I'm **Archana**, an aspiring front-end developer.
 
 - 🔭 I’m currently working on feature extraction for video analysis project.
 - 🌱 I’m currently learning javascript.
