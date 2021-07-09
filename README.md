@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 <!--[![LinkedIN_icon](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/archana-yadav23/)-->
-<a href="https://www.linkedin.com/in/archana-yadav23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48" width="48" /></a>
+<a href="https://www.linkedin.com/in/archana-yadav23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="44" width="44" /></a>
 
 ### Languages and Tools:
 
