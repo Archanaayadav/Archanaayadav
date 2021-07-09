@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 
 ### Connect with me:
-[![LinkedIN_icon](https://img.icons8.com/bubbles/48/000000/linkedin.png)](https://www.linkedin.com/in/archana-yadav23/)
+[![LinkedIN_icon](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/archana-yadav23/)
 
 
 ### Languages and Tools:
