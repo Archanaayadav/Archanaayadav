@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 [![LinkedIN_icon](https://img.icons8.com/bubbles/48/000000/linkedin.png)](https://www.linkedin.com/in/archana-yadav23/)
 
 
-
-&nbsp;
-
 ### Languages and Tools:
 
 ![PythonIcon](https://img.icons8.com/color/48/000000/python.png) &nbsp; <img src="https://www.r-project.org/Rlogo.png" height="48"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
