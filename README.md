@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm **Archana**, an aspiring front-end developer.
+
+- 🔭 I’m currently working on feature extraction for video analysis project.
+- 🌱 I’m currently learning javascript.
+- 👯 I’m looking to collaborate on any front-end development projects.
+- 📫 How to reach me: ahana.archana23@gmail.com
+- 😄 Interests: Adventures, get togethers, travel.
+
+### Connect with me:
+[![LinkedIN_icon](https://img.icons8.com/bubbles/48/000000/linkedin.png)](https://www.linkedin.com/in/archana-yadav23/)
+
+### Languages and Tools:
+
+![PythonIcon](https://img.icons8.com/color/48/000000/python.png) &nbsp; <img src="https://www.r-project.org/Rlogo.png" height="48"> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+
