@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 ### I'm **Archana**, an aspiring front-end developer.
 
 
-- 🔭 I’m currently working on feature extraction for video analysis project.
-- 🌱 I’m currently learning javascript.
+- 🔭 I’m currently working as Automation Tester in Hashedin By Deloitte.
+- 🌱 I’m currently gaining knowledge on Generative AI and Data Analytics.
 - 👯 I’m looking to collaborate on any front-end development projects.
 - 📫 How to reach me: ahana.archana23@gmail.com
 - 😄 Interests: Adventures, get togethers, travel.
