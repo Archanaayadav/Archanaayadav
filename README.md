@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 &nbsp;
 
-### I'm **Archana**, an aspiring front-end developer.
+### I'm **Archana**, an aspiring Data Analyst.
 
 
 - 🎓 I’m currently pursuing Masters in Data Analytics and Computational Social Science at University of Massachussetts, Amherst.
