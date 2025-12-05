@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🎓 I’m currently pursuing Masters in Data Analytics and Computational Social Science at University of Massachussetts, Amherst.
 - 🔭 Previously I have worked as Automation Tester at Hashedin By Deloitte.
 - 🌱 I’m currently gaining knowledge on Generative AI and Data Analytics.
-- 👯 I’m looking to collaborate on any front-end development projects.
+- 👯 I’m looking to collaborate on any Machine Learning and Data analysis projects.
 - 📫 How to reach me: archanaayadav23@gmail.com
 - 😄 Interests: Adventures, get togethers, travel.
 
